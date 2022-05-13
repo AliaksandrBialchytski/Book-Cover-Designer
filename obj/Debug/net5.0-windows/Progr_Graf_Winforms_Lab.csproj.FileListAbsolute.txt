@@ -1,0 +1,60 @@
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.exe
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.deps.json
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.runtimeconfig.json
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.runtimeconfig.dev.json
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.dll
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\ref\Progr_Graf_Winforms_Lab.dll
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.pdb
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form1.resources
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.AssemblyInfo.cs
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.dll
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\ref\Progr_Graf_Winforms_Lab.dll
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.pdb
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.genruntimeconfig.cache
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form2.resources
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form3.resources
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\en-001\Progr_Graf_Winforms_Lab.resources.dll
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form1.en-001.resources
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\en-001\Progr_Graf_Winforms_Lab.resources.dll
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\ru\Progr_Graf_Winforms_Lab.resources.dll
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form1.ru.resources
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\ru\Progr_Graf_Winforms_Lab.resources.dll
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form2.en-001.resources
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form2.ru.resources
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form3.en-001.resources
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form3.ru.resources
+C:\Users\User\source\repos\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.csproj.AssemblyReference.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.exe
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.deps.json
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.runtimeconfig.json
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.runtimeconfig.dev.json
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\ref\Progr_Graf_Winforms_Lab.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.pdb
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\en-001\Progr_Graf_Winforms_Lab.resources.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\bin\Debug\net5.0-windows\ru\Progr_Graf_Winforms_Lab.resources.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.csproj.AssemblyReference.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form1.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form2.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form3.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form1.en-001.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form1.ru.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form2.en-001.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form2.ru.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form3.en-001.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.Form3.ru.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.csproj.GenerateResource.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.AssemblyInfoInputs.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.AssemblyInfo.cs
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.csproj.CoreCompileInputs.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\en-001\Progr_Graf_Winforms_Lab.resources.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\ru\Progr_Graf_Winforms_Lab.resources.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\ref\Progr_Graf_Winforms_Lab.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.pdb
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\Progr_Graf_Winforms_Lab\obj\Debug\net5.0-windows\Progr_Graf_Winforms_Lab.genruntimeconfig.cache

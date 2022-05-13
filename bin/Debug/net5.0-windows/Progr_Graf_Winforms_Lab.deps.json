@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Progr_Graf_Winforms_Lab/1.0.0": {
+        "runtime": {
+          "Progr_Graf_Winforms_Lab.dll": {}
+        },
+        "resources": {
+          "en-001/Progr_Graf_Winforms_Lab.resources.dll": {
+            "locale": "en-001"
+          },
+          "ru/Progr_Graf_Winforms_Lab.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Progr_Graf_Winforms_Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
